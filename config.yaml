@@ -12,6 +12,7 @@ carpentry: 'incubator'
 
 # Overall title for pages.
 title: 'Programming with Python — Pomona College HPC Workshop Series'
+description: 'Python for research computing: arrays, visualisation, functions, conditionals and defensive programming. Adapted from Software Carpentry.'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2014-11-25'
