@@ -18,7 +18,7 @@
 [black-formatter]: https://black.readthedocs.io "Black Code Formatter"
 [virtual-environments]: https://docs.python.org/3/tutorial/venv.html "Python Virtual Environments"
 [pip-documentation]: https://pip.pypa.io "pip - The Python Package Installer"
-[sagehen-wiki]: https://github.com/pomona-college-hpc "Sagehen HPC Workshop Series on GitHub"
+[sagehen-wiki]: https://github.com/Pomona-College "Sagehen HPC Workshop Series on GitHub"
 [ondemand-portal]: https://ondemand.hpc.pomona.edu "OnDemand HPC Portal"
 [its-contact]: mailto:its-hpc@pomona.edu "HPC Support Email"
 [pomona-its]: https://www.pomona.edu/its/ "Pomona College ITS"
