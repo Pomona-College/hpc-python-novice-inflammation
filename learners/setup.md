@@ -49,7 +49,7 @@ you like.
 A Jupyter Notebook provides a browser-based interface for working with Python.
 If you installed Anaconda, you can launch a notebook in two ways:
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Anaconda Navigator
 
@@ -69,13 +69,13 @@ If you installed Anaconda, you can launch a notebook in two ways:
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Command line (Terminal)
 
 1\. Navigate to the `data` directory:
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Unix shell
 
@@ -88,7 +88,7 @@ cd ~/Desktop/swc-python/data
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Command Prompt (Windows)
 
@@ -105,7 +105,7 @@ cd /D %userprofile%\Desktop\swc-python\data
 
 2\. Start Jupyter server
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Unix shell
 
@@ -115,7 +115,7 @@ jupyter notebook
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Command Prompt (Windows)
 
