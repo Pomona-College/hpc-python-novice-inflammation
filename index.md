@@ -85,7 +85,6 @@ The commands in this lesson pertain to any officially supported Python version, 
 3\.7+**.  Newer versions usually have better error printouts, so using newer Python versions is
 recommend if possible.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Getting Started
@@ -93,6 +92,8 @@ recommend if possible.
 To get started, follow the directions on the [Setup](learners/setup.md) page to download data
 and install a Python interpreter.
 
+## Acknowledgments
 
-
-
+Developed by **Andrew Wilson**, Director of Research Computing and Digital
+Scholarship at Pomona College, with **Andrei Motchenko**, who tested, edited
+and produced screenshots for the workshop series.
