@@ -24,7 +24,7 @@ or run it in a shell script to process thousands of data files.
 In order to do that in an efficient way,
 we need to make our programs work like other Unix command-line tools.
 For example,
-we may want a program that reads a dataset (perhaps stored on Sagehen at `/bigdata/lab/biolab/pomona-cohort-2024/`)
+we may want a program that reads a dataset (perhaps stored on Sagehen HPC at `/bigdata/lab/biolab/pomona-cohort-2024/`)
 and prints the average inflammation per patient — useful when looping over Cecil Sagehen's lab measurements as part of a SLURM batch job.
 
 :::::::::::::::::::::::::::::::::::::::::  callout

@@ -22,7 +22,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-At this point, we've seen that code can have Python make decisions about what it sees in our data. What if we want to convert some of our data, like taking a temperature in Fahrenheit and converting it to Celsius — a common situation when Cecil Sagehen's lab teammates need to compare field measurements collected at the Pomona Bernard Field Station with published data in metric units. We could write something like this for converting a single number
+At this point, we've seen that code can have Python make decisions about what it sees in our data. What if we want to convert some of our data, like taking a temperature in Fahrenheit and converting it to Celsius — a common situation when Cecil Sagehen HPC's lab teammates need to compare field measurements collected at the Pomona Bernard Field Station with published data in metric units. We could write something like this for converting a single number
 
 ```python
 fahrenheit_val = 99

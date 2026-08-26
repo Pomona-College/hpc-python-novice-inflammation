@@ -18,7 +18,7 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 As a final piece to processing our inflammation data, we need a way to get a list of all the files
-in our `data` directory whose names start with `inflammation-` and end with `.csv`. On Sagehen, this directory typically lives under your lab's `/bigdata` share — for example, `/bigdata/lab/biolab/pomona-cohort-2024/`.
+in our `data` directory whose names start with `inflammation-` and end with `.csv`. On Sagehen HPC, this directory typically lives under your lab's `/bigdata` share — for example, `/bigdata/lab/biolab/pomona-cohort-2024/`.
 The following library will help us to achieve this:
 
 ```python

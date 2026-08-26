@@ -4,9 +4,9 @@ title: Setup
 
 ## Overview
 
-This lesson is designed to be run on a personal computer **or** on Sagehen, Pomona College's research computing cluster. All of the software and data used in this lesson are freely available online, and instructions on how to obtain them are provided below.
+This lesson is designed to be run on a personal computer **or** on Sagehen HPC, Pomona College's research computing cluster. All of the software and data used in this lesson are freely available online, and instructions on how to obtain them are provided below.
 
-## Running on Sagehen (recommended at Pomona)
+## Running on Sagehen HPC (recommended at Pomona)
 
 If you have a Pomona HPC account, you can complete this workshop entirely in the browser via the OnDemand portal:
 
