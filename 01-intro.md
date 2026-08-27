@@ -35,7 +35,7 @@ This is great but not very interesting.
 To do anything useful with data, we need to assign its value to a *variable*.
 In Python, we can [assign](../learners/reference.md#assign) a value to a
 [variable](../learners/reference.md#variable), using the equals sign `=`.
-For example, suppose Cecil Sagehen is helping a Pomona biology lab record the weight of a study subject who weighs 60 kilograms. We can assign the value `60` to a variable `weight_kg`:
+For example, suppose Cecil Sagehen HPC is helping a Pomona biology lab record the weight of a study subject who weighs 60 kilograms. We can assign the value `60` to a variable `weight_kg`:
 
 ```python
 weight_kg = 60

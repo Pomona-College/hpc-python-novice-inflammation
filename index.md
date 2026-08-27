@@ -15,7 +15,7 @@ by [Software Carpentry](https://software-carpentry.org/).
 **Web Portal:** [OnDemand](https://ondemand.hpc.pomona.edu/)
 **Support:** its-hpc@pomona.edu
 
-Python is available on the Sagehen cluster via `module load miniconda3`.
+Python is available on the Sagehen HPC cluster via `module load miniconda3`.
 You can also run Python interactively through Jupyter on OnDemand.
 
 *Adapted for Pomona College by Andrew Wilson, ITS Research Computing.
