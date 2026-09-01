@@ -23,4 +23,4 @@
 "learners/reference.md" "6cdc6c9a8e0d7a1ac1262641dc61fc61" "site/built/reference.md" "2026-08-24"
 "learners/setup.md" "0b3ef8777642c1bb0e400ca471c82fb2" "site/built/setup.md" "2026-08-27"
 "profiles/learner-profiles.md" "77b905bda7176cc4d99f8f04df04650a" "site/built/learner-profiles.md" "2026-08-24"
-"renv/profiles/lesson-requirements/renv.lock" NA "site/built/renv.lock" "2026-08-27"
+"renv/profiles/lesson-requirements/renv.lock" NA "site/built/renv.lock" "2026-09-01"
